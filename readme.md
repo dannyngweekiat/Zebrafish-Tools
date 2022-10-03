@@ -1,10 +1,10 @@
 # Zebra Fish Tools
 
-Tools for extracting location information video
+Tools for extracting location information from video
 
 ## Setup
 
-Install python 3 on your system <https://www.python.org/downloads/>
+Install python3 on your system <https://www.python.org/downloads/>
 
 Create venv for project using the command
 
